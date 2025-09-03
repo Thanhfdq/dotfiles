@@ -1,0 +1,1 @@
+/home/rome/.config/scripts/bluetooth_status.sh

@@ -1,0 +1,1 @@
+/home/rome/.config/scripts/mycloudDrive-realtime-sync.sh

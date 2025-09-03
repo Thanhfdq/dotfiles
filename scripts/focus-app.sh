@@ -1,0 +1,1 @@
+/home/rome/.config/scripts/focused_app.sh

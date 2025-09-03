@@ -1,0 +1,1 @@
+/home/rome/.config/scripts/fcitx5_status.sh

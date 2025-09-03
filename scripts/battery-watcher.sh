@@ -1,0 +1,1 @@
+/home/rome/.config/scripts/battery-watcher.sh

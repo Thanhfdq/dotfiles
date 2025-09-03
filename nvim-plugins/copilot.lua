@@ -1,0 +1,1 @@
+/home/rome/.config/nvim/lua/plugins/copilot.lua
